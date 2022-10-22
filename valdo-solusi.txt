@@ -1,0 +1,9 @@
+RESOLUSI
+
+Hai...para coders, sebelumnya perkenalkan nama saya Rivaldo Bogar, biasa dipanggil valdo, saya adalah seorang developer pemula, sekarang sedang berkuliah di sebuah
+universitas. Untuk kedepannya saya ingin menguasai beberapa hal berikut.
+
+- JavaScript
+- JavaScript (DOM)
+- HTML
+- CSS
