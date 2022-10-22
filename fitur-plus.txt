@@ -2,3 +2,5 @@ Hai...coders, kembali lagi bersama saya, Rivaldo Bogar, Disini saya ingin menamb
 - Kotlin
 - Adobe Editing
 - C#
+// Hai..rivaldo saya fasya, saya ingin melakukan update pada bagian struktur html.ini hanya contoh
+- updating versi color yang berbeda
