@@ -9,3 +9,6 @@ universitas. Untuk kedepannya saya ingin menguasai beberapa hal berikut.
 - CSS
 - Node Js
 - Boostrap
+ // Hai..rivaldo saya adalah liundongi, saya akan melakukan update pada bagian boostrapnya, mohon dicek apakah sudah sesuai perubahannya.
+ - contoh merge branch
+ - boonstrap 5 updating
