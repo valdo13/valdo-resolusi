@@ -4,3 +4,5 @@ Hai...coders, kembali lagi bersama saya, Rivaldo Bogar, Disini saya ingin menamb
 - C#
 // Hai..rivaldo saya fasya, saya ingin melakukan update pada bagian struktur html.ini hanya contoh
 - updating versi color yang berbeda
+// Hai...Rivaldo saya liundongi saya ingin menambahkan warna linear-gradient lebih menarik lagi.mohon periksa dulu
+- linear-gradident cool color
