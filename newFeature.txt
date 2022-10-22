@@ -1,0 +1,6 @@
+// Hai...valdo_mediatech saya adalah fasya, sekarang saya akan membuat tampilan anda lebih terlihat cinematic lagi...
+recomend yang saya usul..
+- react
+- vue js
+- node js
+- boostrap 5
