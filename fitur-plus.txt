@@ -7,4 +7,4 @@ Hai...coders, kembali lagi bersama saya, Rivaldo Bogar, Disini saya ingin menamb
 
 // Hai...Rivaldo saya liundongi saya ingin menambahkan warna linear-gradient lebih menarik lagi.mohon periksa dulu
 - linear-gradident cool color
-
+// Hai...valdo menurut saya warna yang anda buat terlalu terlihat kontras, mohon menggunakan warna yang saya recomendation
