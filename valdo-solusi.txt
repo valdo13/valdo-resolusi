@@ -7,3 +7,4 @@ universitas. Untuk kedepannya saya ingin menguasai beberapa hal berikut.
 - JavaScript (DOM)
 - HTML
 - CSS
+- C++
